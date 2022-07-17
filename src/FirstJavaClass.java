@@ -1,3 +1,3 @@
 public class FirstJavaClass {
-  //This is my repostriy
+  //This is my code
 }
