@@ -1,3 +1,3 @@
 public class FirstJavaClass {
-  //This is my codes
+  //This is my code
 }
